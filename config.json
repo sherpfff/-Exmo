@@ -1,0 +1,6 @@
+{
+    "ws_url": "wss://api.example.com/websocket",
+    "pair": "BTC_USD",
+    "capital": 1000,
+    "risk_per_trade": 0.01
+}
